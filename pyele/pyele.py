@@ -27,8 +27,6 @@ See also:
   https://maps.gsi.go.jp/help/pdf/demapi.pdf
 """
 
-__all__ = ['get_elevation']
-
 pow2_8 = pow(2, 8)
 pow2_16 = pow(2, 16)
 pow2_23 = pow(2, 23)
