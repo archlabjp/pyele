@@ -7,7 +7,7 @@
 You can install `pyele` with pip:
 
 ```bash
-pip3 install git+https://github.com/udawtr/pyele.git
+pip3 install git+https://github.com/archlabjp/pyele.git
 ```
 
 
