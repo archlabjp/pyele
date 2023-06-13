@@ -1,6 +1,6 @@
 # pyele
 
-`pyele` is a Python module for fetching and processing digital elevation model (DEM) data from the Geospatial Information Authority of Japan (GSI).This module is based on https://github.com/gsi-cyberjapan/elevation-php
+`pyele` is a Python module for fetching and processing digital elevation model (DEM) data from the Geospatial Information Authority of Japan (GSI).This module is based on https://maps.gsi.go.jp/development/elevation.html
 
 ## Installation
 
